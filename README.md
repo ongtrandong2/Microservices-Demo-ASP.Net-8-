@@ -21,4 +21,10 @@
   Chạy Project và tận hưởng
   
 ## Ứng Dụng MicroServices
-  
+Gồm 5 user services mỗi service ứng với 1 feature:
+ - Product: Thông tin sản phẩm
+ - Order: Quản lí thông tin đơn hàng
+ - Coupon: Quản lí mã giảm giá
+ - Cart: Quản lí giỏ hàng
+ - Authentication: Đăng nhập đăng kí có mã hóa bằng JWT 
+![image](https://github.com/user-attachments/assets/c842127b-8411-42df-8d7b-2d0c44e4e027)
